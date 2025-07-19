@@ -1,6 +1,7 @@
 # 🌡️ Temperature Converter
 
 A responsive and user-friendly temperature converter web app built using **HTML**, **CSS**, and **JavaScript**. It supports real-time conversion between Celsius, Fahrenheit, and Kelvin with conversion history.
+Inspired by : https://roadmap.sh/projects/temperature-converter
 
 ---
 
